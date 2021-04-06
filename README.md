@@ -146,5 +146,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@openfast](https://github.com/openfast/)
 * [@rafmudaf](https://github.com/rafmudaf/)
 
