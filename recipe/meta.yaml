@@ -1,5 +1,5 @@
 {% set name = "openfast" %}
-{% set version = "2.6.0" %}
+{% set version = "3.0.0" %}
 
 package:
   name: {{ name|lower }}
